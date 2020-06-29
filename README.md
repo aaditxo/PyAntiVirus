@@ -1,4 +1,8 @@
-# Antivirus-Python-
+<h2><u>How To Install</u></h2>
+
+Run "Install PyAntiVirus.exe" ; and run PyAntiVirus after installation for using AntiVirus.
+
+<h2>PyAntiVirus</h2>
 
 <b>N00NY [ORIGINAL AUTHOR] : </b>This is a project I started at the beginning of December 2017. I was simply bored out of my mind and needed a good topic for a term paper for school, so yeah here it is.
 Since then it has gone from a console application to an "acceptable" GUI. 
